@@ -13,12 +13,12 @@ The sample is only useful when run on a device. The simulator always returns unk
 ================================================================================
 BUILD REQUIREMENTS:
 
-iPhone SDK 3.0
+iOS 4.0 SDK
 
 ================================================================================
 RUNTIME REQUIREMENTS:
 
-iPhone OS 3.0
+iOS 3.2 or later
 
 ================================================================================
 PACKAGING LIST:
@@ -33,8 +33,11 @@ battery status and presents it in a UITableView. Enables and disables battery st
 ================================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 
+Version 1.1
+	Updated for iOS 4.
+	
 Version 1.0
 	First release.
 
 
-Copyright (c) 2009 Apple Inc. All rights reserved.
+Copyright (c) 2009-2010 Apple Inc. All rights reserved.
